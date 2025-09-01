@@ -15,7 +15,6 @@ This guide covers only the essential NumPy concepts you'll use in real-world AI 
 - Random Number Generation
 - Linear Algebra Essentials
 - Performance Optimization
-- Interoperability
 
 ---
 
@@ -93,14 +92,6 @@ This guide covers only the essential NumPy concepts you'll use in real-world AI 
 
 ---
 
-## 10. 🔗 Interoperability
-
-- Convert between NumPy arrays and pandas DataFrames
-- Feed arrays into ML models (e.g., scikit-learn, TensorFlow, PyTorch)
-
----
-
 ## 🧠 Final Note
 
 These topics form the backbone of efficient AI/ML workflows. Practice each with real datasets, modularize your scripts, and share your insights with the community!
-
